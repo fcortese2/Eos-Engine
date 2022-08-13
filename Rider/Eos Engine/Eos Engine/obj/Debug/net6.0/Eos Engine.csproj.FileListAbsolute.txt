@@ -1,0 +1,29 @@
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\Eos Engine.exe
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\Eos Engine.deps.json
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\Eos Engine.runtimeconfig.json
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\Eos Engine.dll
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\ref\Eos Engine.dll
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\Eos Engine.pdb
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\obj\Debug\net6.0\Eos Engine.csproj.AssemblyReference.cache
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\obj\Debug\net6.0\Eos Engine.GeneratedMSBuildEditorConfig.editorconfig
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\obj\Debug\net6.0\Eos Engine.AssemblyInfoInputs.cache
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\obj\Debug\net6.0\Eos Engine.AssemblyInfo.cs
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\obj\Debug\net6.0\Eos Engine.csproj.CoreCompileInputs.cache
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\obj\Debug\net6.0\Eos Engine.dll
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\obj\Debug\net6.0\ref\Eos Engine.dll
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\obj\Debug\net6.0\Eos Engine.pdb
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\obj\Debug\net6.0\Eos Engine.genruntimeconfig.cache
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\OpenTK.Compute.dll
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\OpenTK.Core.dll
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\OpenTK.Graphics.dll
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\OpenTK.Input.dll
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\OpenTK.Mathematics.dll
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\OpenTK.OpenAL.dll
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\OpenTK.Windowing.Common.dll
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\OpenTK.Windowing.Desktop.dll
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\OpenTK.Windowing.GraphicsLibraryFramework.dll
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\runtimes\linux-x64\native\libglfw.so.3.3
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\runtimes\osx-x64\native\libglfw.3.dylib
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\runtimes\win-x64\native\glfw3.dll
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\bin\Debug\net6.0\runtimes\win-x86\native\glfw3.dll
+D:\Eos Engine Content\Rider\Eos Engine\Eos Engine\obj\Debug\net6.0\Eos Engine.csproj.CopyComplete
