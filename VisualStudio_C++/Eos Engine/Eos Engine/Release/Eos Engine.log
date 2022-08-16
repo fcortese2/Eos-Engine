@@ -1,0 +1,9 @@
+﻿LINK : warning LNK4098: defaultlib 'LIBCMT' conflicts with use of other libs; use /NODEFAULTLIB:library
+Eos Engine.obj : error LNK2001: unresolved external symbol _glfwSwapBuffers
+Eos Engine.obj : error LNK2001: unresolved external symbol _glfwTerminate
+Eos Engine.obj : error LNK2001: unresolved external symbol _glfwPollEvents
+Eos Engine.obj : error LNK2001: unresolved external symbol _glfwInit
+Eos Engine.obj : error LNK2001: unresolved external symbol _glfwCreateWindow
+Eos Engine.obj : error LNK2001: unresolved external symbol _glfwMakeContextCurrent
+Eos Engine.obj : error LNK2001: unresolved external symbol _glfwWindowShouldClose
+D:\Eos Engine Content\Eos-Engine-Git\VisualStudio_C++\Eos Engine\Release\Eos Engine.exe : fatal error LNK1120: 7 unresolved externals

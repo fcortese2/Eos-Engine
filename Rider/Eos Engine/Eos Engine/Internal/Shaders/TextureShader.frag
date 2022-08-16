@@ -10,4 +10,5 @@ uniform sampler2D texture;
 void main()
 {
     pixelColor = texture2D(texture, f_texcoord);
+    //pixelColor = vec4(1.0, 0, 0, 1.0);
 }

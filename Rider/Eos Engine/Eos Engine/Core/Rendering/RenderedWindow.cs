@@ -16,8 +16,8 @@ namespace Eos_Engine.Rendering
     public class RenderedWindow: GameWindow
     {
         private static readonly Color4 FrameClearColor = new Color4(0, 180, 0, 255);
-        
 
+        public static Vector2 ScreenSize; 
         private Scene? scene;
 
         
@@ -39,12 +39,14 @@ namespace Eos_Engine.Rendering
             GL.Enable(EnableCap.Texture2D);
             GL.Enable(EnableCap.Blend);
             GL.BlendFunc(BlendingFactor.SrcAlpha, BlendingFactor.OneMinusSrcAlpha);
+            ScreenSize = new Vector2(width, height);
             CenterWindow();
         }
 
         protected override void OnResize(ResizeEventArgs e)
         {
-            GL.Viewport(0, 0, e.Width / 2, e.Height / 2);
+            GL.Viewport(0, 0, e.Width, e.Height);
+            ScreenSize = e.Size;
             base.OnResize(e);
         }
 

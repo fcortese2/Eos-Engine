@@ -22,6 +22,8 @@ namespace Eos_Engine.Rendering
 
             source = shaderSource;
             
+            Console.WriteLine(shaderSource);
+            
             VertShaderHandle = GL.CreateShader(ShaderType.VertexShader);
             GL.ShaderSource(VertShaderHandle, source);
             GL.CompileShader(VertShaderHandle);

@@ -25,8 +25,10 @@ namespace Eos_Engine.Core.IO
             GL.BindTexture(TextureTarget.Texture2D, id);
 
             Bitmap bmp = new Bitmap(filePath);
+            bmp.RotateFlip(RotateFlipType.RotateNoneFlipY);     //flip y. Y:0 is top left in bitmaps and Y:0 is bottom left in openGL normalised coords
             BitmapData data = bmp.LockBits(new Rectangle(0, 0, bmp.Width, bmp.Height), ImageLockMode.ReadOnly,
                 System.Drawing.Imaging.PixelFormat.Format32bppArgb);
+            
 
             GL.TexImage2D(TextureTarget.Texture2D, 0, PixelInternalFormat.Rgba, data.Width, data.Height, 0,
                 PixelFormat.Bgra, PixelType.UnsignedByte, data.Scan0);

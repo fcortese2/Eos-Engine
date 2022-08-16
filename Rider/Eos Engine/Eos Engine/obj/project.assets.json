@@ -486,11 +486,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Eos Engine Content\\Rider\\Eos Engine\\Eos Engine\\Eos Engine.csproj",
+      "projectUniqueName": "D:\\Eos Engine Content\\Eos-Engine-Git\\Rider\\Eos Engine\\Eos Engine\\Eos Engine.csproj",
       "projectName": "Eos Engine",
-      "projectPath": "D:\\Eos Engine Content\\Rider\\Eos Engine\\Eos Engine\\Eos Engine.csproj",
+      "projectPath": "D:\\Eos Engine Content\\Eos-Engine-Git\\Rider\\Eos Engine\\Eos Engine\\Eos Engine.csproj",
       "packagesPath": "C:\\Users\\fcort\\.nuget\\packages\\",
-      "outputPath": "D:\\Eos Engine Content\\Rider\\Eos Engine\\Eos Engine\\obj\\",
+      "outputPath": "D:\\Eos Engine Content\\Eos-Engine-Git\\Rider\\Eos Engine\\Eos Engine\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\fcort\\AppData\\Roaming\\NuGet\\NuGet.Config",

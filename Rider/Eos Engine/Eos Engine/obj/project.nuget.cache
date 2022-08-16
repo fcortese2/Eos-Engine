@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Yw/WlzaZRITgL7V1GBjT5fv0M8Qg36ITXwU2hHmddhm28eGciOiwB8VIw7S3PjjlKbAIgWgIzMh7cAI6m/AQxQ==",
+  "dgSpecHash": "eVaPg0MJ02aQEA+Z4siyn8krB7B4yBfYbZ2984ElxdWqQ/C9Td6eXixjFa3oAck4COfqRpogzRWy+zY0Za4CzA==",
   "success": true,
-  "projectFilePath": "D:\\Eos Engine Content\\Rider\\Eos Engine\\Eos Engine\\Eos Engine.csproj",
+  "projectFilePath": "D:\\Eos Engine Content\\Eos-Engine-Git\\Rider\\Eos Engine\\Eos Engine\\Eos Engine.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\fcort\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "C:\\Users\\fcort\\.nuget\\packages\\opentk\\4.7.4\\opentk.4.7.4.nupkg.sha512",
