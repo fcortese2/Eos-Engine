@@ -1,5 +1,21 @@
 #pragma once
+#include <list>
 #include <string>
+#include <vector>
+
+struct LoadedTextureData
+{
+	unsigned int TextureID;
+	int Width;
+	int Height;
+
+	LoadedTextureData(unsigned int tID, int w, int h)
+	{
+		TextureID = tID;
+		Width = w;
+		Height = h;
+	}
+};
 
 class TextureLoader
 {
@@ -7,6 +23,8 @@ public:
 	TextureLoader();
 	~TextureLoader();
 
-	static unsigned int LoadTexture(std::string localPath);
+	static LoadedTextureData LoadTexture(std::string localPath);
 	
 };
+
+
